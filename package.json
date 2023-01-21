@@ -27,5 +27,8 @@
   "dependencies": {
     "colors": "^1.4.0",
     "semver": "^6.3.0"
+  },
+  "volta": {
+    "node": "14.21.2"
   }
 }
